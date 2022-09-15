@@ -1,5 +1,5 @@
 ## The files in this repo are written using **QuickBASIC 7.1**, and can be converted to VBA with some modifications.
-### Decription for selected subset of the scripts:
+*Description for selected subset of the scripts:*
 * ```BASE.bas```: A script that would [convert](https://www.google.com/search?q=base+convert) a number from one base to another. Worked for bases 2 to 36.
 
 * ```CALENDAR.bas```: A converter between Gregorian and Persian calendar.
