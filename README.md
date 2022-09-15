@@ -34,6 +34,6 @@
 
 * ```SUBS.bas```: Similar to ```COMB.bas```, with an extra step of creating every possible subset of the string, and possible combination of each subset.
 
-* ```TSTUDENT.bas```: [t_student *p*-value calculator](https://www.google.com/search?q=t+student+p-value+calculator)
+* ```TSTUDENT.bas```: [t-Student *p*-value calculator](https://www.google.com/search?q=t+student+p-value+calculator)
 
 * ```XCONTAB.bas```: $\chi$ $^2$ test for a [contingency table](https://www.google.com/search?q=contingency+table)
