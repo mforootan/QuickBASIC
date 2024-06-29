@@ -4,7 +4,7 @@
 
 * ```CALENDAR.bas```: A converter between Gregorian and Persian calendar.
 
-* ```CHI2.bas```: [$\chi$ $^2$ *p*-value calculator](https://www.google.com/search?q=chi-square+p-value+calculator)
+* ```CHI2.bas```: $\chi$ $^2$ [*p*-value calculator](https://www.google.com/search?q=chi-square+p-value+calculator)
 
 * ```CLOCAL.bas```: A full graphic clock and calendar, with dark | light background change based on daylight time
 
